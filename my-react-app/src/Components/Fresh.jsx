@@ -25,10 +25,32 @@ const Fresh = () => {
                 <div className="wheel-img">
                     <img src="https://cdn11.bigcommerce.com/s-5or0xc2x/images/stencil/1280x1280/products/15736/49407/$(KGrHqJ_!joE9UbgeycIBPZgT1C!jQ~~60_59__05693.1537401776.jpg?c=2"></img>
                     <div className="like-icons2"><FaRegHeart /></div>
+                    <div className="featured">FEATURED</div>
+                    <div className="prices">₹ 2,500</div>
+                    <div className="willys">Willys streing wheel jeep spare parts</div>
+                    <div className="day">
+                        <div className="marathwada">MARATHWADA CHOWK, BALAPUR HIN...</div>
+                        <div className="date">JAN 27</div>
+                    </div>
                 </div>
             </div>
-            <div className="bluetooth-box"></div>
-            <div className="samsung-box"></div>
+            <div className="bluetooth-box">
+                <div className="bluetooth-img">
+                    <img src="https://www.ninesmw.com/cdn/shop/products/Nines_29234_1024x1024.jpg?v=1698970631"></img>
+                    <div className="like-icons3"><FaRegHeart /></div>
+                    <div className="prices">₹ 349</div>
+                    <div className="all">All type Of brand new Bluetooth speaker...</div>
+                    <div className="day">
+                        <div className="marathwada">SAMUDRAPUR, MAHARASHTRA</div>
+                        <div className="date">2 DAYS AGO</div>
+                    </div>
+                </div>
+            </div>
+            <div className="samsung-box">
+                <div className="samsung-img">
+                    <img src="https://technukti.com/wp-content/uploads/2024/01/Samsung-Galaxy-S24-Ultra-camera-upgrades-revealed.jpeg"></img>
+                </div>
+            </div>
             </div>
         </div>
     );
