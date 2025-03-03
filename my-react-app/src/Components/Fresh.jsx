@@ -49,6 +49,13 @@ const Fresh = () => {
             <div className="samsung-box">
                 <div className="samsung-img">
                     <img src="https://technukti.com/wp-content/uploads/2024/01/Samsung-Galaxy-S24-Ultra-camera-upgrades-revealed.jpeg"></img>
+                    <div className="like-icons4"><FaRegHeart /></div>
+                    <div className="prices">₹ 30,000</div>
+                    <div className="all">Selling my 6 months old Samsung need...</div>
+                    <div className="day">
+                        <div className="marathwada">SAMUDRAPUR MIDC, MAHARASHTRA</div>
+                        <div className="date">5 DAYS AGO</div>
+                    </div>
                 </div>
             </div>
             </div>

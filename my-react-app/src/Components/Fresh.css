@@ -42,7 +42,7 @@
 .like-icons1{
     bottom: 460px;
     position: absolute;
-    left: 265px;
+    left: 263px;
     padding: 5px;
     height: 17px;
     border-radius: 40px;
@@ -125,7 +125,7 @@
 .like-icons2{
     top: 115px;
     position: absolute;
-    left: 530px;
+    left: 536px;
     padding: 5px;
     height: 17px;
     border-radius: 40px;
@@ -196,7 +196,7 @@
 .like-icons3{
     top: 115px;
     position: absolute;
-    left: 800px;
+    left: 808px;
     padding: 5px;
     height: 17px;
     border-radius: 40px;
@@ -230,4 +230,14 @@
     width: 100%;
     max-width: 240px;
     height: 110px; 
+}
+
+.like-icons4{
+    top: 115px;
+    position: absolute;
+    left: 1080px;
+    padding: 5px;
+    height: 17px;
+    border-radius: 40px;
+    background-color: white;
 }
